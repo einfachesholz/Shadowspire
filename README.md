@@ -1,2 +1,2 @@
 # Shadowspire
-Shadowspire is a game i created for my NEA.
+Shadowspire is a game I created for my NEA.
