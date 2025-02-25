@@ -2,7 +2,7 @@ import pygame
 import sys
 import utils
 import databases
-import bcrypt # used for hashing/ dehashing passwords
+import bcrypt # used for hashing passwords
 
 # each ui will have it's own game loop
 def access(display, clock, assets, game):
