@@ -2,8 +2,8 @@ import bcrypt # for hashing passwords
 from supabase import create_client# for communicating with our superbase database
 
 #constants we will need to setup the database connection
-URL = "https://ncmlacwxawrrgednzchq.supabase.co"
-API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5jbWxhY3d4YXdycmdlZG56Y2hxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzg3MDI4NDgsImV4cCI6MjA1NDI3ODg0OH0.RS4b8aWd7557vz8i2HSE9e8M41-e45DZ8e4n3Rm8Bv4"
+URL = ""
+API_KEY = ""
 
 #sets up our database connection
 supabase = create_client(URL, API_KEY)
